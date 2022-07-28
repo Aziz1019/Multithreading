@@ -23,5 +23,6 @@ public class Account {
     public synchronized void deposit(int dep){
         System.out.println(Thread.currentThread().getName() + " hissobga qo'shildi.");
         this.balance += dep;
+        notify();
     }
 }
