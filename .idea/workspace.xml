@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60fc4476-3dce-4bc1-97d7-dd98cb80d4ba" name="Changes" comment="NotifyAndWait">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NotifyAllAndWait/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NotifyAllAndWait/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/NotifyAllAndWait/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NotifyAllAndWait/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +110,7 @@
       <workItem from="1658913590427" duration="3238000" />
       <workItem from="1658980567828" duration="580000" />
       <workItem from="1658981354800" duration="19000" />
-      <workItem from="1658999548605" duration="571000" />
+      <workItem from="1658999548605" duration="967000" />
     </task>
     <task id="LOCAL-00001" summary="Multithreading">
       <created>1658980696785</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659000081523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="NotifyAndWait">
+      <created>1659000128474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659000128474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

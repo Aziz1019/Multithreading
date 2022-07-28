@@ -6,7 +6,11 @@ public class App {
         Thread t1 = new Thread(new Runnable() {
             @Override
             public void run() {
-                account.withdraw(300000);
+                try {
+                    account.withdraw(300000);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
             }
         }, "Komunal");
         Thread t2 = new Thread(new Runnable() {
