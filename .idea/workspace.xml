@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60fc4476-3dce-4bc1-97d7-dd98cb80d4ba" name="Changes" comment="Multithreading">
-      <change afterPath="$PROJECT_DIR$/src/NotifyAllAndWait/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotifyAllAndWait/App.java" afterDir="false" />
+    <list default="true" id="60fc4476-3dce-4bc1-97d7-dd98cb80d4ba" name="Changes" comment="NotifyAndWait">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NotifyAllAndWait/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NotifyAllAndWait/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <workItem from="1658913590427" duration="3238000" />
       <workItem from="1658980567828" duration="580000" />
       <workItem from="1658981354800" duration="19000" />
-      <workItem from="1658999548605" duration="515000" />
+      <workItem from="1658999548605" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="Multithreading">
       <created>1658980696785</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658980907359</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="NotifyAndWait">
+      <created>1659000081523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659000081523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Multithreading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multithreading" />
+    <MESSAGE value="NotifyAndWait" />
+    <option name="LAST_COMMIT_MESSAGE" value="NotifyAndWait" />
   </component>
 </project>
